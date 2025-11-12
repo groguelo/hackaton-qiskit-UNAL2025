@@ -1,0 +1,12 @@
+# --- Núcleo de la Hackatón ---
+
+jupyter
+notebook
+nbgrader
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+qiskit
+qiskit_aer
