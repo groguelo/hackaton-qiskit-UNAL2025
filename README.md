@@ -9,7 +9,7 @@
 
 ## 🎯 El Desafío
 
-Una hackatón es una competencia en la que se miden habilidades de computación, se premia la creatividad y el ingenio para resolver problemas algorítmicamente e implementar su solución en diversos contextos reales. Por eso, el objetivo de esta hackatón yace en la implementación de la librería de Python **Qiskit** desarrollada por IBM que proporciona un marco modular y extensible para la investigación y el desarrollo cuánticos en algoritmos, computación de alto rendimiento y ciencia de la información cuántica.
+Una hackatón es una competencia en la que se miden habilidades de computación, se premia la creatividad y el ingenio para resolver problemas algorítmicamente e implementar su solución en diversos contextos reales. Por eso, el objetivo de esta hackatón yace en la implementación de la librería de Python **Qiskit** desarrollada por IBM que proporciona un marco modular y extensible para la investigación y el desarrollo cuántico en algoritmos, computación de alto rendimiento y ciencia de la información cuántica.
 
 ¡Mira la documentación oficial de la librería **[aquí](https://quantum.cloud.ibm.com/docs/es/guides/quick-start)**!
 
