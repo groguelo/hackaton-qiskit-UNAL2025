@@ -37,7 +37,7 @@ La estructura de este repositorio es simple:
 1.  **Busca el Problema:**
     * Ve a la carpeta `/release/Day[X]/`.
     * Descarga el .ipynb correspondiente al problema del día que vas a trabajar.
-    * Abre el notebook (ej: `Problema1.ipynb`) con Jupyter Notebook o Google Colab.
+    * Abre el notebook (ej: `Day1_Problem1.ipynb`) con Jupyter Notebook o Google Colab.
 3.  **Resuelve el Problema:**
     * Completa el código **únicamente** después de la etiqueta `# YOUR CODE HERE`, borra `raise NotImplementedError()` y desde esa línea comienza a escribir.
     * No **modifiques** nada fuera de esos bloques ni **añadas** otra celda que no venga por defecto en el cuaderno.
@@ -45,7 +45,7 @@ La estructura de este repositorio es simple:
     * Envía tu notebook completado al canal de Slack `entregas-día-[X]`
     * Asegúrate de que tu archivo se llame `[NombreEquipo]_Day[X]_Problem_[X].ipynb`.
   
-La **hora límite** para las entregas de cada día es a las **17:15**.
+La **hora límite** para las entregas de cada día es a las **17:15**, luego de esta hora el canal de Slack se inhabilita.
 
 ## 🏆 Leaderboard (Tabla de Clasificación)
 
