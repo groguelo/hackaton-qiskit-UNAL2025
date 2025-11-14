@@ -24,39 +24,32 @@ El evento está estipulado para que sean 3 días de concurso que tendrá lugar d
 * **Día 3 Jueves 20/11/2025** Tema del Día: Machine Learning Cuántico (QML) y Algoritmos Variacionales.
 * **Día 4 Viernes 21/11/2025** Premiación.
 
-La **hora límite** para las entregas de cada día es a las **17:15**.
-
 ## 📂 ¿Cómo Funciona?
 
 La estructura de este repositorio es simple:
 
 1.  **`/release`**: En esta carpeta encontrarás los problemas de cada día. Los notebooks aquí están listos para que los descargues y empieces a trabajar.
-2.  **`/source`**: Esta carpeta contiene los archivos "maestros" que usamos para calificar. ¡No necesitas tocar nada aquí!
+2.  **`requirements.txt`**: Este documento de texto contiene las herramientas (entornos, librerías, etc...) necesarias que debes tener en tu equipo local para participar en las actividades del concurso.
 3.  **`README.md`**: (Este archivo) Es el centro de mando. Revisa aquí para ver el leaderboard y las actualizaciones.
 
 ## 🏁 Pasos para Participar
 
-1.  **Clona el Repositorio:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[Tu-Usuario]/[Tu-Repo].git
-    cd [Tu-Repo]
-    ```
-2.  **Busca el Problema:**
-    * Ve a la carpeta `/release/[Nombre_del_Dia]/`.
+1.  **Busca el Problema:**
+    * Ve a la carpeta `/release/Day[X]/`.
+    * Descarga el .ipynb correspondiente al problema del día que vas a trabajar.
     * Abre el notebook (ej: `Problema1.ipynb`) con Jupyter Notebook o Google Colab.
 3.  **Resuelve el Problema:**
-    * Completa el código **únicamente** entre las etiquetas `### BEGIN SOLUTION` y `### END SOLUTION`.
-    * No modifiques nada fuera de esos bloques.
+    * Completa el código **únicamente** después de la etiqueta `# YOUR CODE HERE`, borra `raise NotImplementedError()` y desde esa línea comienza a escribir.
+    * No **modifiques** nada fuera de esos bloques ni **añadas** otra celda que no venga por defecto en el cuaderno.
 4.  **Entrega tu Solución:**
-    * [Define tu método de entrega. Ej: "Envía tu notebook completado al canal de Slack #entregas"]
-    * [Ej 2: "Sube tu archivo .ipynb a esta carpeta de Google Drive: (enlace)"]
-    * Asegúrate de que tu archivo se llame `[NombreEquipo]_[NombreProblema].ipynb`.
+    * Envía tu notebook completado al canal de Slack `entregas-día-[X]`
+    * Asegúrate de que tu archivo se llame `[NombreEquipo]_Day[X]_Problem_[X].ipynb`.
+  
+La **hora límite** para las entregas de cada día es a las **17:15**.
 
 ## 🏆 Leaderboard (Tabla de Clasificación)
 
 Las notas se calcularán automáticamente después de la hora de corte. ¡Revisaremos la creatividad y la eficiencia del código manualmente!
-
-*(Aquí es donde pegarás el contenido de tu `grades.csv` exportado. Puedes usar un [conversor de CSV a Markdown](https://www.tablesgenerator.com/markdown_tables) para que se vea bonito).*
 
 | Equipo | Day1 | Day2 | Day3 | Puntuación Total |
 | :--- | :---: | :---: | :---: | :---: |
@@ -66,13 +59,13 @@ Las notas se calcularán automáticamente después de la hora de corte. ¡Revisa
 
 ## ⚖️ Reglas y Evaluación
 
-* **Automatizado (`nbgrader`):** La puntuación base viene de pasar las pruebas ocultas. Si tu código funciona como se espera, obtienes los puntos.
+* **Participación:** Todos los integrantes del equipo deben estar presentes durante toda la jornada del concurso, la no asistencia de un integrante del equipo anula la participación del equipo ese día.
+* **Automatización:** La puntuación base viene de pasar las pruebas ocultas. Si tu código funciona como se espera, obtienes los puntos.
 * **Manual (Jueces):** También evaluaremos:
     * **Creatividad:** ¿Tu solución es original e ingeniosa?
     * **Eficiencia:** ¿Es tu código limpio y rápido?
     * **Claridad:** ¿Está bien documentado?
 * **No modificar los tests:** Cualquier intento de modificar las celdas de prueba o fuera de los bloques de solución resultará en una puntuación de 0 para ese problema.
-* [Añade cualquier otra regla específica que tengas].
 
 ---
 
