@@ -59,10 +59,6 @@ Las notas se calcularán automáticamente después de la hora de corte. ¡Revisa
 |YoConYo        |75  |0   |0   |75              |
 |estiberz       |45  |0   |0   |45              |
 |Asperjasp      |33  |0   |0   |33              |
-|Dirt Devil     |0   |0   |0   |0               |
-|Qtor           |0   |0   |0   |0               |
-|Andres L       |0   |0   |0   |0               |
-|CNOT Tunnelling|0   |0   |0   |0               |
 
 
 ## ⚖️ Reglas y Evaluación
