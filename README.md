@@ -43,7 +43,7 @@ La estructura de este repositorio es simple:
     * No **modifiques** nada fuera de esos bloques ni **añadas** otra celda que no venga por defecto en el cuaderno.
 4.  **Entrega tu Solución:**
     * Envía tu notebook completado al canal de Slack `entregas-día-[X]`
-    * Asegúrate de que tu archivo se llame `[NombreEquipo]_Day[X]_Problem_[X].ipynb`.
+    * Asegúrate de que tu archivo se llame `[NombreEquipo]_Day[X]_Problem[X].ipynb`.
   
 La **hora límite** para las entregas de cada día es a las **17:15**, luego de esta hora el canal de Slack se inhabilita.
 
@@ -51,11 +51,19 @@ La **hora límite** para las entregas de cada día es a las **17:15**, luego de 
 
 Las notas se calcularán automáticamente después de la hora de corte. ¡Revisaremos la creatividad y la eficiencia del código manualmente!
 
-| Equipo | Day1 | Day2 | Day3 | Puntuación Total |
-| :--- | :---: | :---: | :---: | :---: |
-| Equipo Alfa | 100 | 90 | 95 | 285 |
-| Equipo Beta | 90 | 100 | 80 | 270 |
-| Equipo Gamma | 85 | 85 | - | 170 |
+|Equipo         |Day1|Day2|Day3|Puntuación Total|
+|---------------|----|----|----|----------------|
+|dmikan         |75  |0   |0   |75              |
+|Pandedios123   |75  |0   |0   |75              |
+|Quantumania    |75  |0   |0   |75              |
+|YoConYo        |75  |0   |0   |75              |
+|estiberz       |45  |0   |0   |45              |
+|Asperjasp      |33  |0   |0   |33              |
+|Dirt Devil     |0   |0   |0   |0               |
+|Qtor           |0   |0   |0   |0               |
+|Andres L       |0   |0   |0   |0               |
+|CNOT Tunnelling|0   |0   |0   |0               |
+
 
 ## ⚖️ Reglas y Evaluación
 
