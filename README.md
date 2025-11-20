@@ -53,11 +53,11 @@ Las notas se calcularán automáticamente después de la hora de corte. ¡Revisa
 
 |Equipo         |Day1|Day2|Day3|Puntuación Total|
 |---------------|----|----|----|----------------|
-|dmikan         |75  |0   |0   |75              |
-|Pandedios123   |75  |0   |0   |75              |
-|Quantumania    |75  |0   |0   |75              |
-|YoConYo        |75  |0   |0   |75              |
-|estiberz       |45  |0   |0   |45              |
+|dmikan         |75  |88  |0   |163             |
+|YoConYo        |75  |87  |0   |162             |
+|Quantumania    |75  |85  |0   |160             |
+|Pandedios123   |75  |70  |0   |145             |
+|estiberz       |45  |5   |0   |50              |
 |Asperjasp      |33  |0   |0   |33              |
 
 
