@@ -51,14 +51,14 @@ La **hora límite** para las entregas de cada día es a las **17:15**, luego de 
 
 Las notas se calcularán automáticamente después de la hora de corte. ¡Revisaremos la creatividad y la eficiencia del código manualmente!
 
-|Equipo         |Day1|Day2|Day3|Puntuación Total|
-|---------------|----|----|----|----------------|
-|dmikan         |75  |88  |0   |163             |
-|YoConYo        |75  |87  |0   |162             |
-|Quantumania    |75  |85  |0   |160             |
-|Pandedios123   |75  |70  |0   |145             |
-|estiberz       |45  |5   |0   |50              |
-|Asperjasp      |33  |0   |0   |33              |
+|Equipo      |Day1|Day2|Day3|Puntuación Total|
+|------------|----|----|----|----------------|
+|dmikan      |75  |88  |94  |257             |
+|Quantumania |75  |85  |97  |257             |
+|YoConYo     |75  |87  |95  |257             |
+|Pandedios123|75  |70  |70  |215             |
+|estiberz    |45  |5   |95  |145             |
+|Asperjasp   |33  |0   |0   |33              |
 
 
 ## ⚖️ Reglas y Evaluación
